@@ -18,6 +18,8 @@ npm start
 yarn start
 ```
 
+## Step 1 (a): Update your API_KEY in TollService file
+
 ## Step 2: Start your Application
 
 Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
